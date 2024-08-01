@@ -52,7 +52,7 @@ This documentation provides an overview of the marketing data analysis conducted
 ### Conclusion
 The analysis provides valuable insights into customer demographics, spending behaviour, and campaign performance. These findings highlight areas for strategic improvement, such as campaign re-strategizing and targeted marketing efforts to different customer segments. The use of Power BI enabled the visualization of these insights, making it easier to derive actionable recommendations for enhancing marketing strategies and overall business performance.
 ### Appendices
-#### Visuals and Dashboards
+#### [Visuals and Dashboards](https://github.com/amzatr886/Marketing-Data-Analysis/blob/main/Marketing%20Data%20Analysis%20Report.correctedpdf.pdf)
 - Overview Page Dashboard
 - Customer Demographic Dashboard
 - Spending Analysis Dashboard
